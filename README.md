@@ -15,3 +15,6 @@ Multi-task Learning: Models trained to perform multiple tasks simultaneously, wi
 Meta-Learning or Learning to Learn: These models are trained to learn how to adapt quickly to new tasks or domains with minimal data. Meta-learning models aim to acquire general learning skills across different tasks.
 
 Transfer learning models have significantly contributed to advancements in various fields, including computer vision, natural language processing, recommendation systems, and more. They facilitate faster development, better performance, and reduced data requirements in solving real-world problems by leveraging the knowledge extracted from previously learned tasks or domains.
+
+
+In this work, I have used the all transfer learning models for the classification of Normal and Pneumonia Chest X-ray images.
